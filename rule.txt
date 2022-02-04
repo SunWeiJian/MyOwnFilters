@@ -1,3 +1,6 @@
+! Title: MyOwnFilter
+! Description: 自用补充规则
+
 !douyu
 douyu.com##.FirstPurchase
 
