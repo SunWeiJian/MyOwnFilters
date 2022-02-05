@@ -3,6 +3,8 @@
 
 !douyu
 douyu.com##.FirstPurchase
+douyu.com##.InteractPlayWithPendant
+douyu.com###SpringCarPendant
 
 !baidu
 baidu.com###lm-new
