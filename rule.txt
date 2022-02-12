@@ -5,6 +5,12 @@
 douyu.com##.FirstPurchase
 douyu.com##.InteractPlayWithPendant
 douyu.com###SpringCarPendant
+douyu.com##.AnchorPocketTips
+douyu.com##.FishShopTip
+
 
 !baidu
 baidu.com###lm-new
+
+!huya
+huya.com###player-left-head
