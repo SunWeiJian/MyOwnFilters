@@ -7,6 +7,7 @@ douyu.com##.InteractPlayWithPendant
 douyu.com###SpringCarPendant
 douyu.com##.AnchorPocketTips
 douyu.com##.FishShopTip
+douyu.com##.PrivilegeGiftEnter
 
 
 !baidu
