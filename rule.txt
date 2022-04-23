@@ -9,6 +9,7 @@ douyu.com##.AnchorPocketTips
 douyu.com##.FishShopTip
 douyu.com##.PrivilegeGiftEnter
 
+www.douyu.com###js-room-activity
 
 !baidu
 baidu.com###lm-new
