@@ -16,3 +16,12 @@ baidu.com###lm-new
 
 !huya
 huya.com###player-left-head
+
+douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
+||douyucdn.cn/adxdsp/$image
+wan.douyu.com
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+douyu.com,huya.com##a[href^="https://g.wan."]
+huya.com###hy-ad,#hy-ab,#huya-ab
+g.huya.com
+||msstatic.com/huya/*/p2plib.js$script
