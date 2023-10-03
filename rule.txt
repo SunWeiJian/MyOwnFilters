@@ -23,7 +23,6 @@ wan.douyu.com
 douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
-g.huya.com
 
 
 m.huya.com##video:style(object-fit:fill!important)
